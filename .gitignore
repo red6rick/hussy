@@ -1,0 +1,7 @@
+# for klipper printer.cfg backups
+printer-*
+
+# various backups
+*.bkp
+
+

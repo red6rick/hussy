@@ -1,2 +1,2 @@
-# hussy
-# new klipper config repo for hussy
+# voron24_config
+Configuration files for my Voron 2.4
